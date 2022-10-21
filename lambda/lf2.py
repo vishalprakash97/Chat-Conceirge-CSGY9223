@@ -11,7 +11,6 @@ password=environ['password']
 index_name=environ['index_name']
 db_table_name=environ['db_table_name']
 gmail_id=environ['gmail_id']
-gmail_password=environ['gmail_password']
 open_search_auth=(user_name,password)
 
 
