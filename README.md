@@ -1,4 +1,4 @@
-# Chat-Conceirge-CSGY9223 Assignment 1
+# Chat-Concierge-CSGY9223 Assignment 1
 
 ## Contributors
 
