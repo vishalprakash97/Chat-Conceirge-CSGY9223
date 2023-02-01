@@ -1,12 +1,12 @@
 # Concierge Chat Bot
 
-##### Description
+#### Description
 AI Chatbot that provides restaurant suggestions in New York City based on user preferences
 
-##### Architecture
+#### Architecture
 <img src="Images/chatbot-architecture.png" width="500">
 
-##### Contributors
+#### Contributors
 
 * Vishal Prakash (vp2181@nyu.edu)
 * Vedang Mondreti (vm2129@nyu.edu)
